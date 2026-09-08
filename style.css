@@ -96,7 +96,7 @@ section {
             rgba(2,6,23,0.90),
             rgba(2,6,23,0.65)
         ),
-        url("images/background.jpg");
+        url("images/background.jpg.jpg");
 
     background-size: cover;
     background-position: center;
